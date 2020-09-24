@@ -3,7 +3,7 @@ Low-Light Image Enhancement
 
 **Note**: Please search in google for **under-exposed** or **low contrast** images before trying the **web-app**.
 
-**Quick Start**: Enhance Low light Images -https://brightenhance.herokuapp.com/ **Low-end version**- https://enhanceimage.herokuapp.com/
+**Quick Start**: Enhance Low light Images -https://brightenhance.herokuapp.com/ **Low-end version**- https://enhanceimage.herokuapp.com/ [In case of hicupps, please referesh:)]
 
 #### Try on Colab
 
