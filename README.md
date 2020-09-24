@@ -18,8 +18,6 @@ Low-Light Image Enhancement
 - [Example Images](#example-images)
 - [Almost NoGan](#Almost-NoGan)
 - [Technical Details](#the-technical-details)
-- [Getting Started Yourself](#getting-started-yourself)
-    - [Easiest Approach](#easiest-approach)
 - [Docker](#docker)
 
 
@@ -64,6 +62,7 @@ The aim of the project is to enhance under-exposed Images. Before going into tec
 
 ![Imgur](https://i.imgur.com/lxsyBxz.jpg)
 
+
 ## Almost NoGAN
 
 The steps are as follows: 
@@ -72,6 +71,7 @@ The steps are as follows:
 - Finally, train the generator and critic together in a GAN.
 
 All the useful GAN training here only takes place within a very small window of time(thanks to DeOldify), This helped me do the whole project in Colab. The GAN training took about 25-30 minutes.
+
 
 ## Technical Details
 
@@ -84,5 +84,6 @@ All the useful GAN training here only takes place within a very small window of 
 ### [Progressive Growing of GANs](https://arxiv.org/pdf/1710.10196.pdf)
 
 
+## Docker
 
 
