@@ -30,5 +30,5 @@ The aim of the project is enhance under exposed Images. Before going into techni
 
 ## Example Images
 
-[Imgur](https://i.imgur.com/7vwIqKk.jpg)
+![Imgur](https://i.imgur.com/7vwIqKk.jpg)
 
