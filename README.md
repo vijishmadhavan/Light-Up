@@ -30,7 +30,7 @@ The aim of the project is enhance under exposed Images. Before going into techni
 
 ## Example Images
 
-![Imgur](https://i.imgur.com/lxsyBxz.jpg)
+![Imgur](https://i.imgur.com/Kdd6vjP.jpg)
 
 
 ![Imgur](https://i.imgur.com/fejUcvr.jpg)
@@ -60,6 +60,5 @@ The aim of the project is enhance under exposed Images. Before going into techni
 ![Imgur](https://i.imgur.com/sj4ULdJ.jpg)
 
 
-![Imgur](https://i.imgur.com/Kdd6vjP.jpg)
-
+![Imgur](https://i.imgur.com/lxsyBxz.jpg)
 
