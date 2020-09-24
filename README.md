@@ -65,3 +65,12 @@ The aim of the project is to enhance under-exposed Images. Before going into tec
 
 ![Imgur](https://i.imgur.com/lxsyBxz.jpg)
 
+## Almost NoGAN
+
+The steps are as follows: 
+1.Train the generator with feature loss.
+2. Train the critic  on distinguishing between those outputs and real images.
+3. Finally, train the generator and critic together in a GAN.
+
+All the useful GAN training here only takes place within a very small window of time, This helped me do the whole project in Colab. The GAN training took about 25-30 minutes.
+
