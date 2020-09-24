@@ -14,6 +14,7 @@ Low-Light Image Enhancement
 
 
 ## About Light-Up
+This project is a part of [Data Science Incubator (Summer 2020)](https://madewithml.com/incubator/) organized by Made With ML.
 
 The aim of the project is to enhance under-exposed Images. Before going into technical details I would like show some pictures.
 
@@ -80,7 +81,20 @@ All the useful GAN training here only takes place within a very small window of 
 
 Clone the repo and navigate to the repo:
 ```
-git clone https://github.com/riven314/TweakStory.git
-cd TweakStory/app
+git clone https://github.com/vijishmadhavan/Light-Up.git app 
+cd app/Enhance
 ```
+
+Build and run the docker image locally:
+```
+make run
+```
+
+Navigate to http://localhost:8501 for the app. (Streamlit runs on port 8501 by default)
+
+Shutdown the server:
+```
+make stop 
+```
+
 
