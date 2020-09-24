@@ -20,9 +20,8 @@ Low-Light Image Enhancement
 - [Technical Details](#the-technical-details)
 - [Getting Started Yourself](#getting-started-yourself)
     - [Easiest Approach](#easiest-approach)
-    - [Your Own Machine](#your-own-machine-not-as-easy)
 - [Docker](#docker)
-- [Pretrained Weights](#pretrained-weights)
+
 
 ## About Light-Up
 
@@ -83,6 +82,7 @@ All the useful GAN training here only takes place within a very small window of 
 ### [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155.pdf)
 
 ### [Progressive Growing of GANs](https://arxiv.org/pdf/1710.10196.pdf)
+
 
 
 
