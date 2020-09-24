@@ -39,5 +39,8 @@ The aim of the project is enhance under exposed Images. Before going into techni
 ![Imgur](https://i.imgur.com/UwR0Tfr.jpg)
 
 
+![Imgur](https://i.imgur.com/oagu5Hb.jpg)
+
+
 ![Imgur](https://i.imgur.com/7vwIqKk.jpg)
 
