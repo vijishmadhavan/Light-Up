@@ -22,7 +22,7 @@ Image Enhancement
 ## About Light-Up
 This project is a part of [Data Science Incubator (Summer 2020)](https://madewithml.com/incubator/) organized by Made With ML.
 
-The aim of the project is to enhance under-exposed Images. Before going into technical details I would like show some pictures.
+The aim of the project is to enhance under-exposed Images. Before going into technical details I would like to show some pictures.
 
 ## Example Images
 
@@ -91,7 +91,7 @@ All the useful GAN training here only takes place within a very small window of 
 Clone the repo and navigate to the repo:
 ```
 git clone https://github.com/vijishmadhavan/Light-Up.git app 
-cd app/Enhance
+cd app/enhance
 ```
 
 Build and run the docker image locally:
