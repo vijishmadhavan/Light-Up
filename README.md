@@ -16,7 +16,7 @@ Low-Light Image Enhancement
 ## Table of Contents
 - [About Light-Up](#about-deoldify)
 - [Example Images](#example-images)
-- [Almost NoGan](#thanks-to-deoldify)
+- [Almost NoGan](#Almost-NoGan)
 - [Technical Details](#the-technical-details)
 - [Getting Started Yourself](#getting-started-yourself)
     - [Easiest Approach](#easiest-approach)
@@ -72,5 +72,5 @@ The steps are as follows:
 - Train the critic  on distinguishing between those outputs and real images.
 - Finally, train the generator and critic together in a GAN.
 
-All the useful GAN training here only takes place within a very small window of time, This helped me do the whole project in Colab. The GAN training took about 25-30 minutes.
+All the useful GAN training here only takes place within a very small window of time(thanks to DeOldify), This helped me do the whole project in Colab. The GAN training took about 25-30 minutes.
 
