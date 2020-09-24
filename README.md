@@ -1,5 +1,5 @@
 # Light-Up
-Low-Light Image Enhancement
+Image Enhancement
 
 **Note**: Please search in google for **under-exposed** or **low contrast** images before trying the **web-app**.
 
