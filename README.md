@@ -16,7 +16,7 @@ Low-Light Image Enhancement
 ## Table of Contents
 - [About Light-Up](#about-deoldify)
 - [Example Images](#example-images)
-- [Almost NoGan](#thanks to deoldify)
+- [Almost NoGan](#thanks-to-deoldify)
 - [Technical Details](#the-technical-details)
 - [Getting Started Yourself](#getting-started-yourself)
     - [Easiest Approach](#easiest-approach)
