@@ -78,4 +78,9 @@ All the useful GAN training here only takes place within a very small window of 
 
 ## Docker
 
+Clone the repo and navigate to the repo:
+```
+git clone https://github.com/riven314/TweakStory.git
+cd TweakStory/app
+```
 
