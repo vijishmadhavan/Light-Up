@@ -26,7 +26,7 @@ Low-Light Image Enhancement
 
 ## About Light-Up
 
-The aim of the project is enhance under exposed Images. Before going into technical details I would like show some pictures.
+The aim of the project is to enhance under-exposed Images. Before going into technical details I would like show some pictures.
 
 ## Example Images
 
