@@ -5,14 +5,6 @@ Low-Light Image Enhancement
 
 ----------------------------
 
-**Quick Start**: Try in **Colab** - 
-
-
-
-
-
-
-
 ## Table of Contents
 - [About Light-Up](#about-deoldify)
 - [Example Images](#example-images)
