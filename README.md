@@ -1,7 +1,7 @@
 # Light-Up
 Low-Light Image Enhancement
 
-**Quick Start**: Enhance Low light Images - https://brightenhance.herokuapp.co  **Low-version**- https://enhanceimage.herokuapp.com/
+**Quick Start**: Enhance Low light Images - https://brightenhance.herokuapp.co  **Low-end version**- https://enhanceimage.herokuapp.com/
 
 ----------------------------
 
