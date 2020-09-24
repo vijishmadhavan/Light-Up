@@ -74,3 +74,15 @@ The steps are as follows:
 
 All the useful GAN training here only takes place within a very small window of time(thanks to DeOldify), This helped me do the whole project in Colab. The GAN training took about 25-30 minutes.
 
+## Technical Details
+
+### [Self-Attention Generative Adversarial Network](https://arxiv.org/abs/1805.08318)
+
+#Perceptual Loss (or Feature Loss) based on VGG16--(Thanks to #Fast.ai)
+
+### [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155.pdf)
+
+### [Progressive Growing of GANs](https://arxiv.org/pdf/1710.10196.pdf)
+
+
+
