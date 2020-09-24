@@ -13,7 +13,7 @@ Low-Light Image Enhancement
 - [About Light-Up](#about-deoldify)
 - [Example Images](#example-images)
 - [Almost NoGan](#Almost-NoGan)
-- [Technical Details](#the-technical-details)
+- [Technical Details](#technical-details)
 - [Docker](#docker)
 
 
