@@ -69,6 +69,10 @@ The aim of the project is to enhance under-exposed Images. Before going into tec
 
 ![Imgur](https://i.imgur.com/lxsyBxz.jpg)
 
+## Extremely Dark
+
+![Imgur](https://i.imgur.com/QziZ07y.jpg)
+
 
 ## Almost NoGAN
 
