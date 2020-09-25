@@ -29,10 +29,12 @@ The aim of the project is to enhance under-exposed Images. Before going into tec
 ![Imgur](https://i.imgur.com/Kdd6vjP.jpg)
 
 
+![Imgur](https://i.imgur.com/QDTkHCT.jpg)
+
+
+
 ![Imgur](https://i.imgur.com/fejUcvr.jpg)
 
-
-![Imgur](https://i.imgur.com/QDTkHCT.jpg)
 
 
 ![Imgur](https://i.imgur.com/uuGB9Sr.jpg)
