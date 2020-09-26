@@ -5,10 +5,6 @@ Image Enhancement
 
 **Quick Start**: Enhance Low light Images -https://brightenhance.herokuapp.com/ **Low-end version**- https://enhanceimage.herokuapp.com/ [In case of hicupps, please referesh:)]
 
-#### Try on Colab
-
-**Colab**: I am working on it.
-
 ----------------------------
 
 ## Table of Contents
@@ -88,12 +84,15 @@ All the useful GAN training here only takes place within a very small window of 
 
 ### [Self-Attention Generative Adversarial Network](https://arxiv.org/abs/1805.08318)
 
+This has been modified tp have spectral normalization along with self attention.
+
 **Note**: Perceptual Loss (or Feature Loss) based on VGG16--(Thanks to #Fast.ai)
 
 ### [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155.pdf)
 
 ### [Progressive Growing of GANs](https://arxiv.org/pdf/1710.10196.pdf)
 
+Size of the input progressively Changed and the learning rates are adjusted to make sure that the transitions between sizes happened successfully.
 
 ## Docker
 
