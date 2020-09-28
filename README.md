@@ -92,7 +92,7 @@ This has been modified to have spectral normalization along with self attention.
 
 ### [Progressive Growing of GANs](https://arxiv.org/pdf/1710.10196.pdf)
 
-Size of the input progressively Changed and the learning rates are adjusted to make sure that the transitions between sizes happened successfully.
+Size of the input is progressively Changed and the learning rates are adjusted to make sure that the transitions between sizes happened successfully.
 
 ## Docker
 
