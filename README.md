@@ -84,7 +84,9 @@ All the useful GAN training here only takes place within a very small window of 
 
 ### [Self-Attention Generative Adversarial Network](https://arxiv.org/abs/1805.08318)
 
-This has been modified to have spectral normalization along with self attention.
+-Generator is pretrained U-Net
+
+-This has been modified to have spectral normalization along with self attention.
 
 **Note**: Perceptual Loss (or Feature Loss) based on VGG16--(Thanks to #Fast.ai)
 
