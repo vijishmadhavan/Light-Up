@@ -120,7 +120,7 @@ make stop
 This project is built around the wonderful Fast.AI library.
 
 - **fastai==1.0.61** (and its dependencies).  Please dont install the higher versions
-- **PyTorch 1.6.0** Please dont install the higher versions
+- **PyTorch 1.6.0** Please don't install the higher versions
 
 
 
