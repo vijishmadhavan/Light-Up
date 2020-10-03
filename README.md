@@ -82,6 +82,8 @@ All the useful GAN training here only takes place within a very small window of 
 
 ## Technical Details
 
+### [DeOldify](https://github.com/jantic/DeOldify)
+
 ### [Self-Attention Generative Adversarial Network](https://arxiv.org/abs/1805.08318)
 
 -Generator is pretrained U-Net
@@ -122,5 +124,8 @@ This project is built around the wonderful Fast.AI library.
 - **fastai==1.0.61** (and its dependencies).  Please dont install the higher versions
 - **PyTorch 1.6.0** Please dont install the higher versions
 
+## Credits
 
-
+Project - https://github.com/jantic/DeOldify
+Copyright (c) 2018 Jason Antic
+License (MIT)-https://github.com/jantic/DeOldify/blob/master/LICENSE
