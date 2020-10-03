@@ -127,5 +127,7 @@ This project is built around the wonderful Fast.AI library.
 ## Credits
 
 Project - https://github.com/jantic/DeOldify
+
 Copyright (c) 2018 Jason Antic
+
 License (MIT)-https://github.com/jantic/DeOldify/blob/master/LICENSE
