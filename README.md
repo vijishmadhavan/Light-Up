@@ -5,6 +5,14 @@ Image Enhancement
 
 **Quick Start**: Enhance Low light Images -https://brightenhance.herokuapp.com/ **Low-end version**- https://enhanceimage.herokuapp.com/ [In case of hicupps, please referesh:)]
 
+
+**Losses**
+
+https://wandb.ai/vijish/uncategorized/reports/Losses---VmlldzoyNjYwNjc
+
+**Generator output (media)**
+
+https://wandb.ai/vijish/uncategorized/reports/Output--VmlldzoyNjYwNzA
 ----------------------------
 
 ## Table of Contents
