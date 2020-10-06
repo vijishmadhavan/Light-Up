@@ -13,6 +13,7 @@ https://wandb.ai/vijish/uncategorized/reports/Losses---VmlldzoyNjYwNjc
 **Generator output (media)**
 
 https://wandb.ai/vijish/uncategorized/reports/Output--VmlldzoyNjYwNzA
+
 ----------------------------
 
 ## Table of Contents
