@@ -25,7 +25,6 @@ https://wandb.ai/vijish/uncategorized/reports/Output--VmlldzoyNjYwNzA
 
 
 ## About Light-Up
-This project is a part of [Data Science Incubator (Summer 2020)](https://madewithml.com/incubator/) organized by Made With ML.
 
 The aim of the project is to enhance under-exposed Images. Before going into technical details I would like to show some pictures.
 
